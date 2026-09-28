@@ -267,4 +267,5 @@ Do not upload the `.env` file to GitHub.
 **Iqra Khan**
 
 Backend Development Intern
+<br>
 BS Information Technology
